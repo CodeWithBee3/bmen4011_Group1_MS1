@@ -1,0 +1,12 @@
+Info: Output directory '/Users/rubieballantyne/Documents/Milestone 1 Project/gerbers M1' created.
+Plotted to '/Users/rubieballantyne/Documents/Milestone 1 Project/gerbers M1/M1 Schematic-F_Cu.gbr'.
+Plotted to '/Users/rubieballantyne/Documents/Milestone 1 Project/gerbers M1/M1 Schematic-B_Cu.gbr'.
+Plotted to '/Users/rubieballantyne/Documents/Milestone 1 Project/gerbers M1/M1 Schematic-F_Paste.gbr'.
+Plotted to '/Users/rubieballantyne/Documents/Milestone 1 Project/gerbers M1/M1 Schematic-B_Paste.gbr'.
+Plotted to '/Users/rubieballantyne/Documents/Milestone 1 Project/gerbers M1/M1 Schematic-F_Silkscreen.gbr'.
+Plotted to '/Users/rubieballantyne/Documents/Milestone 1 Project/gerbers M1/M1 Schematic-B_Silkscreen.gbr'.
+Plotted to '/Users/rubieballantyne/Documents/Milestone 1 Project/gerbers M1/M1 Schematic-F_Mask.gbr'.
+Plotted to '/Users/rubieballantyne/Documents/Milestone 1 Project/gerbers M1/M1 Schematic-B_Mask.gbr'.
+Plotted to '/Users/rubieballantyne/Documents/Milestone 1 Project/gerbers M1/M1 Schematic-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/rubieballantyne/Documents/Milestone 1 Project/gerbers M1/M1 Schematic-job.gbrjob'.
+Info: Done.
